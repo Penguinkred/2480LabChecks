@@ -47,6 +47,6 @@ if list_file and log_file is True:
 else:
     print("Make sure to use the right commands to make both listfiles.txt and gzlogfiles.txt!")
 
-print("-" * 40)
+print("-" * 45)
 completion()
-print("-" * 40)
+print("-" * 45)
